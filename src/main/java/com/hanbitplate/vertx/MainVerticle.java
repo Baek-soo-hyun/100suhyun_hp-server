@@ -16,7 +16,7 @@ public class MainVerticle extends AbstractVerticle {
 	@Override
 	public void start() throws Exception {
 		Router router = Router.router(vertx);
-		
+
 		router.route("/api/main/section/:sectionCode/items").handler(ctx -> {
 			HttpServerRequest request = ctx.request();
 			HttpServerResponse response = ctx.response();
