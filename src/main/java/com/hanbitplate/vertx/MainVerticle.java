@@ -27,6 +27,25 @@ public class MainVerticle extends AbstractVerticle {
 			response.sendFile("json/section" + sectionCode + ".items.json");
 		});
 		
+		router.route("/api/main/section/:sectionCode/categories").handler(ctx -> {
+			HttpServerRequest request = ctx.request();
+			HttpServerResponse response = ctx.response();
+			
+			String sectionCode = request.getParam("sectionCode");
+			
+			response.putHeader("content-type", "application/json;charset=UTF-8");
+			response.sendFile("json/section" + sectionCode + ".categories.json");
+		});
+		
+		router.route("/api/common/hotplaces").handler(ctx -> {
+			HttpServerResponse response = ctx.response();
+			
+			response.putHeader("content-type", "application/json;charset=UTF-8");
+			response.sendFile("json/common.hotplaces.json");
+		});
+		
+		
+		
 		vertx.createHttpServer().requestHandler(router::accept).listen(8080);
 	}
 }
