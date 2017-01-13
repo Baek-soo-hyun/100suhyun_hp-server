@@ -1,0 +1,177 @@
+{
+    "id": "christmas",
+    "title": "크리스마스 메뉴 판매하는 맛집 베스트 10곳",
+    "desc": "\"드디어 기다리고 기다리던 날이 왔다\"",
+    "clicks": 5953,
+    "date": "2016-12-19",
+    "stores": [{
+   		"name": "거구장",
+    	"score": 3.5,
+    	"img": "img/main_section03_01.jpg",
+    	"location": "신촌",
+    	"category": "한식",
+    	"latLng": {
+    		"lat": 37.5526233,
+        	"lng": 126.9375131
+    	},
+    	"address": "서울 마포구 백범로 23",
+    	"review": {
+    		"editorPic": "img/editor01.jpg",
+        	"editorName": "유정",
+        	"content":"진짜 너무 맛있당 어두워서 사진은 별로지만 냄새도 안나고 하나도 안질긴 맛있는 양고기였다."
+    	}
+    }, {
+   		"name": "미분당",
+    	"score": 4.5231,
+    	"img": "img/main_section03_02.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 서대문구 창천동 72-23",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"촉촉하게 비오는날 유리천장 아래 쇼파에서 맛있는 술과 함께 이야기를 나누기에 좋음. 가격은 비싼편이나 분위기 좋음. 분위기로 다양한 술을 간단한 음식과 함께 하기 위해 간다면 추천."
+    	}
+    	
+    }, {
+   		"name": "브라이리퍼블릭 ",
+    	"score": 4.6,
+    	"img": "img/main_section03_03.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 용산구 이태원동 63-4",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"무엇보다 육즙 가득한 소세지가 일품 직원들이 모두 외국인인데서 뭔가 더 현지스러웠는데, 메뉴판도 영어, 주문도 영어로 받는 사람이 많으니 영어울랑증이 있다면 미리 메뉴 보고 가시면 좋을 듯."
+    	}
+    	
+    }, {
+   		"name": "더비이스트로 ",
+    	"score": 4.5,
+    	"img": "img/main_section03_04.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 서대문구 창천동 72-23",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"요즘 친구들이 홍대 맛집 물어보면 주저하지 않고 추천하는 곳. 추천 X 100."
+    	}
+    	
+    }, {
+   		"name": "크래프트웍스 ",
+    	"score": 4.3,
+    	"img": "img/main_section03_05.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 용산구 이태원동 651",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"식후에 가볍게 마시러 갈 때는 꼭 꼭 애플파이를 먹어야 한다. 15-20분 정도 기다리면 뜨끈하게 구운 애플파이에 바닐라 아이스크림을 올려서 내어준다."
+    	}
+    	
+    }, {
+   		"name": "합스카치",
+    	"score": 4.3,
+    	"img": "img/main_section03_06.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 강남구 논현동 113-8",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"촉촉하게 비오는날 유리천장 아래 쇼파에서 맛있는 술과 함께 이야기를 나누기에 좋음. 가격은 비싼편이나 분위기 좋음. 분위기로 다양한 술을 간단한 음식과 함께 하기 위해 간다면 추천."
+    	}
+    	
+    }, {
+   		"name": "도미닉",
+    	"score": 4.3231,
+    	"img": "img/main_section03_07.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 용산구 한남동 683-133",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"인기메뉴인 듯 한데 괜찮았습니다. 생각한만큼 크리미하고 느끼하지 않아서 오히려 더 좋았던 것 같네요."
+    	}
+    	
+    }, {
+   		"name": "메이드",
+    	"score": 4.3,
+    	"img": "img/main_section03_08.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 강남구 신사동 578-2",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"촉촉하게 비오는날 유리천장 아래 쇼파에서 맛있는 술과 함께 이야기를 나누기에 좋음. 가격은 비싼편이나 분위기 좋음. 분위기로 다양한 술을 간단한 음식과 함께 하기 위해 간다면 추천."
+    	}
+    	
+    }, {
+   		"name": "돌돌돌",
+    	"score": 4.5231,
+    	"img": "img/main_section03_09.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 서대문구 창천동 72-23",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"촉촉하게 비오는날 유리천장 아래 쇼파에서 맛있는 술과 함께 이야기를 나누기에 좋음. 가격은 비싼편이나 분위기 좋음. 분위기로 다양한 술을 간단한 음식과 함께 하기 위해 간다면 추천."
+    	}
+    	
+    }, {
+   		"name": "믹스앤몰트",
+    	"score": 4.1,
+    	"img": "img/main_section03_10.jpg",
+    	"location": "신촌",
+    	"category": "중식",
+    	"latLng": {
+    		"lat": 37.5567962,
+        	"lng": 126.9313453
+    	},
+    	"address": "서울시 종로구 명륜3가 154-2",
+    	"review": {
+    		"editorPic": "img/editor02.jpg",
+        	"editorName": "효주",
+        	"content":"분위기 좋아요 흥겨움 ㅋㅋ"
+    	}
+    	
+    }]
+}
